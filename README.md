@@ -1,5 +1,4 @@
 # Dissertation: Solution Methods for Routing Problems
-## Code base - Python version
 
 This repository holds the python files used to conduct my computational study in my dissertation: Solution Methods for Routing Problems.
 
